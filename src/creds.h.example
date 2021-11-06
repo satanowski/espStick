@@ -1,0 +1,8 @@
+const char ssid[] = "my wifi name";
+const char pass[] = "my wifi pass";
+const char mqtt_server[] = "mqtt address";
+const int mqtt_port = 1883;
+
+const char mqtt_user[] = "mqttuser";
+const char mqtt_pass[] = "mqttpass";
+
